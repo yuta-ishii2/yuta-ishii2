@@ -1,2 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuta-ishii2&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuta-ishii2&theme=★★★&column=7)](https://github.com/ryo-ma/github-profile-trophy)
